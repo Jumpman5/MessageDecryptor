@@ -13,9 +13,9 @@ numbers will change the ciphertext.
 
 USAGE:
 
-java Program6 e myFile.txt // this will encrypt a message
+java Program6 e cards.txt // this will encrypt a message
 
-java Program6 d myFile.txt // this will decrypt a message
+java Program6 d cards.txt // this will decrypt a message
 
 Note: When encrypting a message, the algorithm will append extra X's if the 
 user input is not a multiple of 5. This is intended as part of the algorithm.
