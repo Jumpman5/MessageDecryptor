@@ -1,6 +1,7 @@
 {
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "./Encryption.class"
+        "./Encryption.class",
+        "./Program6.class"
     ]
 }
